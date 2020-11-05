@@ -1,0 +1,39 @@
+/* *****************************************************************************
+	FILE:	Final Project Reflection Paper
+	DATE:	2019-12-10 
+	AUTHOR:	Haley Hepker
+	VERSION:	
+	DESCRIPTION:
+		Reflection on the Final Project.
+			
+	MODIFICATION HISTORY
+		<YYYY-MM-DD> <Modifier Name>
+		<Modification Description>
+			
+***************************************************************************** */
+	Since the begining of the semester the mention of this final project had me 
+worried. I wasn't sure if I would understand enough of the material to be able to complete
+such a project. As the semester went on I was doing pretty good in the class, I understood
+a lot of what was being taught and my assignments were coming back with pretty good grades.
+When the roup project came around I felt a bit worried but when working with my team it
+didn't seem that hard. But I knew that the final project wasn't going to be quite like the
+group project, there was going to be more to it.
+	Starting the project I biuld what I had originally planned out, but it seemed that I
+didn't really have as much information as expected. I went back through and added more 
+tables to my Functional Dependencies and in turn each time I did so I had to adjest the 
+Data Dictionary as well as the E-R Diagram. Once that was finally complete and I started on
+the Script, it was going smoothly. That is until I got to the Foreign Keys, I had to rearrange
+tables and had to fix a couple misplacements in the Constraint areas to finally get them
+going. After that came to hard part, using all the new information to impliment them into 
+my Script. I refered back to my book and assignments a few times as examples but had to 
+change them up a bit to get them to do what I wanted in my Script. A few errors occured 
+here and there and it turned out to be time consuming, but was very satisfying to get them
+to finally work. All in all I think the finl project went pretty well and I hope to add 
+more to the script in the future to have it do other things.
+
+ 
+
+
+/* *****************************************************************************
+                               END OF SCRIPT
+***************************************************************************** */

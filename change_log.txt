@@ -1,0 +1,2 @@
+2019-12-03 - Added more tables to the Functional Dependencies,the Data Dictionary, E-R Diagram, and into the script. 
+Had to change the names slightly to the Order Table as well as the Date attribute since the script was taking them as key words.

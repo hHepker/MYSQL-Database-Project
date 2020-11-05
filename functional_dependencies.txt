@@ -1,0 +1,45 @@
+/* *****************************************************************************
+	FILE:	Functional Dependencies
+	DATE:	2019-12-3 
+	AUTHOR:	Haley Hepker
+	VERSION:	
+	DESCRIPTION:
+			Functional Dependencies for final project
+			
+	MODIFICATION HISTORY
+		<YYYY-MM-DD> <Modifier Name>
+		<Modification Description>
+			
+***************************************************************************** */
+#Order_1 Table
+Order_Id --> Date_1, Cutomer_address, Age_group, Gender, Race,
+Order_cost, Tip
+
+#Shift Table
+Date_1 --> Day_ofWeek, Day_nightShift, Weather, Hours_worked, Total_payout,
+Total_milage, Number_ofRuns
+
+#Location Table
+Customer_address --> Zip_code, City
+
+#Zip_Code Table
+Zip_code --> City, State
+
+#Employee Table
+Employee_Id --> Employee_firstName, Employee_lastName, Employee_hourType,
+Hourly_rate
+
+#Order_details Table
+Order_Id --> Item_Id, Order_qty, Individual_business, Cash_credit
+
+#Wages Table
+Check_number --> Hourly_rate, Pay_amount, Total_hoursWorked
+
+#Paystub Table
+Employee_Id --> Pay_periodBegins, Pay_periodEnds, Net_checkAmount
+
+#Drive Table
+Date_1 --> Milage, Gas_price, Fill_upPrice, MPG_onTank
+
+#Month Table
+Employee_Id --> Days_workedInMonth, Days_takenOff, Total_monthHours
